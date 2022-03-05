@@ -17,7 +17,7 @@ Notas: Se propone seguir ajustando los valores en el entrenamiento
 	Modificar la frecuencia de los datos a dias 
 
 
-# Como Desplegar?
+# ¿Cómo Desplegar?
 
 1. Crear el proyecto en GCP
 
