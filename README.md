@@ -1,7 +1,7 @@
 # Forecasting usando dataset TICKIT
 
 El forecast que se utilizo fue forecasting **Autoregresivo Series Temporales** con Python y Scikit-learn 
-El codigo se dive en las siguientes partes:
+El codigo se divide en las siguientes partes:
 - Instalación de paqueterias
 - Librerias
 - Adquisición y preparación de datos
@@ -13,8 +13,9 @@ El codigo se dive en las siguientes partes:
 
 El conjunto de datos se modifico a una frecuencia de Semanas (W)
 
-Notas: Se propone seguir ajustando los valores en el entrenamiento 
-	Modificar la frecuencia de los datos a dias 
+Notas:
+- Se propone seguir ajustando los valores en el entrenamiento 
+- Modificar la frecuencia de los datos a días 
 
 
 # ¿Cómo Desplegar?
